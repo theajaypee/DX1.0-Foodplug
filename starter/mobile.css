@@ -1,0 +1,79 @@
+@media screen and ( max-width:1120px) {
+
+/* header starts here */
+.nav-mobile{
+    display: flex;
+}
+.header-banner {
+    padding-top: 50px;
+}
+.header-banner-content {
+    width: 100%;
+}
+.nav-desktop{
+    display: none;
+}
+/* ends starts here */
+
+
+/* about us starts here */
+.about-us__card-container {
+    flex-direction: column;
+    align-items: center;
+}
+.about-us__text-contentholder,
+.about-us__card-imageholder{
+    min-width: 350px;
+    margin: 20px 0;
+}
+/* about us end here */
+
+
+
+
+
+/* explore starts here */
+.foodcard__item {
+    margin: 20px 0;
+}
+
+/* explore ends here */
+
+
+
+
+
+/* faq starts here */
+.faq__items {
+    min-width: 100%;
+
+}
+.faq__parallax {
+    flex-direction: column;
+}
+/* faq ends here */
+
+
+
+/* footer starts here */
+footer {
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+}
+.footer-icon__holder {
+    margin: 20px 0;
+}
+
+
+/* faq ends here */
+/* faq starts here */
+/* faq starts here */
+
+
+
+
+
+
+
+}
